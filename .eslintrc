@@ -1,0 +1,6 @@
+{
+  "extends": "@cookiex",
+  "rules": {
+    "dot-notation": "off"
+  }
+}

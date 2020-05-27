@@ -1,0 +1,9 @@
+src
+.eslintrc
+.gitignore
+tsconfig.json
+node_modules
+cookiex.config.json
+inspirations
+__TEST__
+*.lock
